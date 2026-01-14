@@ -1,0 +1,20 @@
+Project Brief :
+
+A web-based platform that enables users to discover local restaurants, read authentic reviews from other diners and share their own dining experiences through detailed reviews and ratings, helping others make informed decisions about where to eat.
+
+Definitions :
+
+Restaurant Listings : A dedicated page or entry containing essential information about a restaurant including its name, location, cusine type, operating hours, and contact details.
+Review
+	A user-submitted assessment of their dining experience at a specific restaurant, including detailed written feedback and a numerical 	rating
+
+Rating
+	A numerical score, typically  on a scale of 1-5 stars, that represent a user's overall satisfaction with their dinning experience at 	a restaurant.
+
+User Stories :
+View Restaurant Details
+Read Restaurant Reviews
+Submit Restaurant Review
+
+ 
+
